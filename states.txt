@@ -4,10 +4,15 @@
 # IDs without a group header are grouped by their parent device ID as before.
  
 [Flur unten]
-zigbee.0.44e2f8fffe61d5d9.state
-zigbee.0.44e2f8fffe61d5d9.colortemp
-zigbee.0.8c65a3fffef115e2.state
-zigbee.0.8c65a3fffef115e2.colortemp
+homekit-controller.0.IP-47:CD:FB:B0:FD:17.9255654411955159553.lightbulb-48.name
+homekit-controller.0.IP-47:CD:FB:B0:FD:17.9255654411955159553.lightbulb-48.on
+homekit-controller.0.IP-47:CD:FB:B0:FD:17.9255654411955159553.lightbulb-48.color-temperature
+homekit-controller.0.IP-47:CD:FB:B0:FD:17.8525522620109438977.lightbulb-48.name
+homekit-controller.0.IP-47:CD:FB:B0:FD:17.8525522620109438977.lightbulb-48.on
+homekit-controller.0.IP-47:CD:FB:B0:FD:17.8525522620109438977.lightbulb-48.color-temperature
+#zigbee.0.44e2f8fffe61d5d9.colortemp
+#zigbee.0.8c65a3fffef115e2.state
+#zigbee.0.8c65a3fffef115e2.colortemp
 
 [Bad]
  zigbee.0.001788010c5a5991.state
